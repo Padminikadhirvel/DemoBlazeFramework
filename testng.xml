@@ -5,9 +5,10 @@
 <listener class-name="listeners.Listeners"></listener>
 </listeners>
   <test thread-count="5" name="Test">
-    <classes>      
+    <classes>
       <class name="testcases.SignupTest"/>
       <class name="testcases.LoginTest"/>
+      <class name="testcases.AddcartTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
