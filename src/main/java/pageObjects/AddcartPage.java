@@ -85,7 +85,7 @@ public class AddcartPage {
 			System.out.println("Selected Product Amount is mismatched with the Amount, Kindly Add the Product Again.");
 		}
 		else
-			System.out.println("Your Payment is : "+amt);
+			System.out.println("Your Payment is : "+amt+" USD");
 		Assert.assertEquals(amt, "360");
 	}
 	
