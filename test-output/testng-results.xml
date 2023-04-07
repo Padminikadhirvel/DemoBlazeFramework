@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-27T19:08:34 IST" name="Suite" finished-at="2023-03-27T19:08:56 IST" duration-ms="21989">
+  <suite started-at="2023-04-07T10:41:26 IST" name="Suite" finished-at="2023-04-07T10:41:49 IST" duration-ms="22964">
     <groups>
     </groups>
-    <test started-at="2023-03-27T19:08:34 IST" name="Test" finished-at="2023-03-27T19:08:56 IST" duration-ms="21989">
+    <test started-at="2023-04-07T10:41:26 IST" name="Test" finished-at="2023-04-07T10:41:49 IST" duration-ms="22964">
       <class name="testcases.SignupTest">
-        <test-method is-config="true" signature="Startup()[pri:0, instance:testcases.SignupTest@411f53a0]" started-at="2023-03-27T19:08:51 IST" name="Startup" finished-at="2023-03-27T19:08:53 IST" duration-ms="2588" status="PASS">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:testcases.SignupTest@6f15d60e]" started-at="2023-04-07T10:41:26 IST" name="Startup" finished-at="2023-04-07T10:41:31 IST" duration-ms="5745" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Startup -->
-        <test-method signature="SignupOperation()[pri:0, instance:testcases.SignupTest@411f53a0]" started-at="2023-03-27T19:08:53 IST" name="SignupOperation" finished-at="2023-03-27T19:08:56 IST" duration-ms="3094" status="PASS">
+        <test-method signature="SignupOperation()[pri:0, instance:testcases.SignupTest@6f15d60e]" started-at="2023-04-07T10:41:31 IST" name="SignupOperation" finished-at="2023-04-07T10:41:34 IST" duration-ms="2766" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignupOperation -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcases.SignupTest@411f53a0]" started-at="2023-03-27T19:08:56 IST" name="close" finished-at="2023-03-27T19:08:56 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.SignupTest@6f15d60e]" started-at="2023-04-07T10:41:34 IST" name="close" finished-at="2023-04-07T10:41:35 IST" duration-ms="289" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- testcases.SignupTest -->
       <class name="testcases.AddcartTest">
-        <test-method is-config="true" signature="Startup()[pri:0, instance:testcases.AddcartTest@3023df74]" started-at="2023-03-27T19:08:34 IST" name="Startup" finished-at="2023-03-27T19:08:38 IST" duration-ms="3699" status="PASS">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:testcases.AddcartTest@7dc19a70]" started-at="2023-04-07T10:41:40 IST" name="Startup" finished-at="2023-04-07T10:41:42 IST" duration-ms="2312" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Startup -->
-        <test-method signature="Addproductoperation()[pri:0, instance:testcases.AddcartTest@3023df74]" started-at="2023-03-27T19:08:38 IST" name="Addproductoperation" finished-at="2023-03-27T19:08:45 IST" duration-ms="6673" status="PASS">
+        <test-method signature="Addproductoperation()[pri:0, instance:testcases.AddcartTest@7dc19a70]" started-at="2023-04-07T10:41:42 IST" name="Addproductoperation" finished-at="2023-04-07T10:41:48 IST" duration-ms="6506" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addproductoperation -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcases.AddcartTest@3023df74]" started-at="2023-03-27T19:08:45 IST" name="close" finished-at="2023-03-27T19:08:45 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.AddcartTest@7dc19a70]" started-at="2023-04-07T10:41:48 IST" name="close" finished-at="2023-04-07T10:41:49 IST" duration-ms="259" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- testcases.AddcartTest -->
       <class name="testcases.LoginTest">
-        <test-method is-config="true" signature="Startup()[pri:0, instance:testcases.LoginTest@6b2ea799]" started-at="2023-03-27T19:08:45 IST" name="Startup" finished-at="2023-03-27T19:08:48 IST" duration-ms="2746" status="PASS">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:testcases.LoginTest@24c1b2d2]" started-at="2023-04-07T10:41:35 IST" name="Startup" finished-at="2023-04-07T10:41:37 IST" duration-ms="2427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Startup -->
-        <test-method signature="LoginOperation()[pri:0, instance:testcases.LoginTest@6b2ea799]" started-at="2023-03-27T19:08:48 IST" name="LoginOperation" finished-at="2023-03-27T19:08:51 IST" duration-ms="3108" status="PASS">
+        <test-method signature="LoginOperation()[pri:0, instance:testcases.LoginTest@24c1b2d2]" started-at="2023-04-07T10:41:37 IST" name="LoginOperation" finished-at="2023-04-07T10:41:39 IST" duration-ms="2339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginOperation -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcases.LoginTest@6b2ea799]" started-at="2023-03-27T19:08:51 IST" name="close" finished-at="2023-03-27T19:08:51 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.LoginTest@24c1b2d2]" started-at="2023-04-07T10:41:39 IST" name="close" finished-at="2023-04-07T10:41:40 IST" duration-ms="247" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
